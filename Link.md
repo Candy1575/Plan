@@ -51,5 +51,8 @@
 
 [Sublime Text 3 详解](http://www.cnblogs.com/bananaplan/p/Sublime-Text-3-Powerful.html)
 
+## Python ##
+
+[python re正则表达式](http://www.cnblogs.com/zhoujinyi/p/3159903.html)
 
 
