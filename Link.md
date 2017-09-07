@@ -61,6 +61,10 @@
 
 [flask 蓝本](https://www.zhihu.com/question/31748237)
 
+[flask Web 开发的Bug集合](http://blog.csdn.net/qq_33528613/article/details/75053697)
+
+
+
 
 
 
