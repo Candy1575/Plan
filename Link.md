@@ -12,6 +12,10 @@
 
 [curl命令](http://blog.51yip.com/linux/1049.html)
 
+2017-09-07
+
+[export命令](http://blog.csdn.net/bailyzheng/article/details/7488769)
+
 ## Docker ##
 
 2017-08-18
