@@ -67,6 +67,8 @@
 
 [flask Web 开发的Bug集合](http://blog.csdn.net/qq_33528613/article/details/75053697)
 
+[flask 最佳实践](https://spacewander.github.io/explore-flask-zh/1-introduction.html)
+
 
 
 
