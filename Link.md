@@ -8,6 +8,9 @@
 
 [Shadowsocks](https://www.loyalsoldier.me/fuck-the-gfw-with-my-own-shadowsocks-server/)
 
+[Ubuntun 换源](https://zhuanlan.zhihu.com/p/27187622)
+
+
 2017-08-27
 
 [curl命令](http://blog.51yip.com/linux/1049.html)
