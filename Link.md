@@ -23,6 +23,9 @@
 
 [Ubuntu Terminal](http://www.cnblogs.com/cobbliu/p/3629772.html)
 
+2017-09-17
+
+[centos转型ubuntu的基础总结](http://www.361way.com/centos-chang-to-ubuntu/3348.html)
 
 
 ## Docker ##
