@@ -1,6 +1,6 @@
 学习hadoop中遇到的问题
 
-Error
+## Error ##
 
 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform… 
 using builtin-java classes where applicable
@@ -16,7 +16,7 @@ Link
 [Unable to load native-hadoop library （已解决）](http://www.chinahadoop.cn/classroom/5/thread/43)
 
 
-Error
+## Error ##
 
 WARN net.DNS: Unable to determine address of the host-falling back to "localhost" address
 
