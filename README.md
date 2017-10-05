@@ -16,4 +16,4 @@
 
 - [x] 复习MySQL
 
-- [x] 学习Gayhub
+- [ ] 学习Gayhub
