@@ -8,9 +8,9 @@
 
 接下来的计划就是堆技术栈 
 
-把一百个小程序写完
+- [] 把一百个小程序写完
 
-用Flask把Django blog实现一遍
+- [x] 用Flask把Django blog实现一遍
 
-Github上interview_python的面试题
+- [] Github上interview_python的面试题
 
