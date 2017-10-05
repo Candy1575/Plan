@@ -14,3 +14,6 @@
 
 - [ ] Github上interview_python的面试题
 
+- [x] 复习MySQL
+
+
